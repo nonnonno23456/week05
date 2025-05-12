@@ -1,0 +1,46 @@
+# Unity 캐시 및 빌드 디렉토리
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# Unity 패키지 / 빌드 파일
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.zip
+
+# Rider / JetBrains
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Visual Studio / VS Code 관련
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.pidb
+*.tmp
+*.booproj
+*.pdb
+*.opendb
+*.VC.db
+*.mdb
+
+# OS 및 메타
+.DS_Store
+Thumbs.db
+*.meta
+
+# Crashlytics
+crashlytics-build.properties
+
+# LFS 임시
+*.lfs
